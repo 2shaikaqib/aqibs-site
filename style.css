@@ -6,6 +6,6 @@ width: 200px
 body{
  text-align:center;
  font-family: Arial, Helvetica;    
- background: blueviolet;
- color: red;
+ background: rgb(0, 0, 0);
+ color: rgb(255, 255, 255);
 }
